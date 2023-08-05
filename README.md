@@ -18,7 +18,7 @@ This is a simple calculator website project that allows users to perform basic a
 ## Getting Started    
 
 1. Clone the repository:    
-   git clone https://github.com/yourusername/calculator-website.git    
+   git clone https://github.com/akarshi19/LetsGrowMore-Task2-Calculator  
 2. Navigate to the project directory:    
    cd calculator-website    
 3. Open the index.html file in your preferred web browser to access the calculator.    
