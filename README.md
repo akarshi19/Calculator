@@ -1,4 +1,4 @@
-# LetsGrowMore-Task2-Calculator   
+# Calculator   
 This is a simple calculator website project that allows users to perform basic arithmetic calculations through a user-friendly and visually appealing interface. The calculator is built using HTML, CSS, and JavaScript, providing a seamless and interactive experience for performing calculations.        
 
 ## Features    
